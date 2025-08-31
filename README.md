@@ -24,7 +24,12 @@ Before running this project, ensure that you meet the following requirements:
 First, clone or download this repository to your local machine ().
 
 ### Step 2: Run on a local IDE
-Build and run the project in a IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
+Build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
 
 ## Technical Overview
-Todo
+The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles.
+
+Rendering: Swing (JFrame + JPanel)
+Simulation Loop: Updates particles in real time at (Default: 120FPS)
+Physics: Position, velocity, and force calculations
+Interaction: UserMouseEvent to pass mouse input into the environment
