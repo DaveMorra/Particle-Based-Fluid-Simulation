@@ -21,7 +21,7 @@ Before running this project, ensure that you meet the following requirements:
 2. **Java Swing Libary**: This libary included need features like JFrame, JPanel, and SwingUtilities.
 
 ### Step 1: Clone the Repository
-First, clone or download this repository to your local machine ().
+First, clone or download this repository to your local machine (https://github.com/DaveMorra/Particle-Based-Fluid-Simulation).
 
 ### Step 2: Run on a local IDE
 Build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
