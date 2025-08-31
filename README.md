@@ -29,7 +29,7 @@ Build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, E
 ## Technical Overview
 The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles.
 
-Rendering: Swing (JFrame + JPanel)
-Simulation Loop: Updates particles in real time at (Default: 120FPS)
-Physics: Position, velocity, and force calculations
-Interaction: UserMouseEvent to pass mouse input into the environment
+ - Rendering: Swing (JFrame + JPanel)
+ - Simulation Loop: Updates particles in real time at (Default: 120FPS)
+ - Physics: Position, velocity, and force calculations
+ - Interaction: UserMouseEvent to pass mouse input into the environment
