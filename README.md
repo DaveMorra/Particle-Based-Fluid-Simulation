@@ -12,6 +12,9 @@
 
 This project is a Java particle-based fluid simulation that uses simple physics rules to create the appearance of fluid-like motion. Each particle is affected by forces such as gravity, collisions with walls, and interactions with nearby particles. The simulation runs in real time with rendering in a Swing window, providing smooth and visually appealing motion. Users can interact with the system using mouse input to attract or repel particles dynamically.
 
+Image1:
+img/image1.png
+
 ## Requirements
 
 Before running this project, ensure that you meet the following requirements:
