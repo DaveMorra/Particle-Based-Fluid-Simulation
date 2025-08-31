@@ -27,7 +27,7 @@ First, clone or download this repository to your local machine (https://github.c
 Build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
 
 ## Technical Overview
-The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles.
+The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles. Below are three images that demonstrate the simulation in action, showing particle movement, fluid-like interactions, and user-driven effects through mouse input.
 
  - Rendering: Swing (JFrame + JPanel)
  - Simulation Loop: Updates particles in real time at (Default: 120FPS)
@@ -35,7 +35,5 @@ The simulation uses a particle-based physics engine to model fluid-like behavior
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
-
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
-
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
