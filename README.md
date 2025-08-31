@@ -34,8 +34,8 @@ The simulation uses a particle-based physics engine to model fluid-like behavior
  - Physics: Position, velocity, and force calculations
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
-![alt text][img/image1.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
+![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
 
-![alt text][img/image2.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
+![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
 
-![alt text][img/image3.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
+![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
