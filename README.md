@@ -12,9 +12,6 @@
 
 This project is a Java particle-based fluid simulation that uses simple physics rules to create the appearance of fluid-like motion. Each particle is affected by forces such as gravity, collisions with walls, and interactions with nearby particles. The simulation runs in real time with rendering in a Swing window, providing smooth and visually appealing motion. Users can interact with the system using mouse input to attract or repel particles dynamically.
 
-Image1:
-![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
-
 ## Requirements
 
 Before running this project, ensure that you meet the following requirements:
@@ -36,3 +33,9 @@ The simulation uses a particle-based physics engine to model fluid-like behavior
  - Simulation Loop: Updates particles in real time at (Default: 120FPS)
  - Physics: Position, velocity, and force calculations
  - Interaction: UserMouseEvent to pass mouse input into the environment
+
+![alt text][img/image1.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
+
+![alt text][img/image2.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
+
+![alt text][img/image3.png](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
