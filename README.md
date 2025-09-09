@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Run the System](#run-the-system)
 - [Technical Overview](#technical-overview)
 
 ## Overview
