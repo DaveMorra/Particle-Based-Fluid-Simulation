@@ -24,8 +24,9 @@ Before running this project, ensure that you meet the following requirements:
 ### Step 1: Clone the Repository
 First, clone or download this repository to your local machine (https://github.com/DaveMorra/Particle-Based-Fluid-Simulation).
 
-### Step 2: Run on a local IDE
-Build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
+### Step 2: Compile and Run
+Quickly build and run the project in any IDE that supports java. (e.g., IntelliJ IDEA, Eclipse, or javac)
+Or, you can compile and run it directly from the command line on any system with a built-in Java compiler.
 
 ## Technical Overview
 The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles. Below are three images that demonstrate the simulation in action, showing particle movement, fluid-like interactions, and user-driven effects through mouse input.
