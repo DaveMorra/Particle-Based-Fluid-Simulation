@@ -35,3 +35,5 @@ The simulation uses a particle-based physics engine to model fluid-like behavior
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
+![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
+![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
