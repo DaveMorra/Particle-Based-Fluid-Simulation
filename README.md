@@ -20,6 +20,8 @@ Before running this project, ensure that you meet the following requirements:
 1. **Java 19.0.0 (or later)**: Be sure to use Java 19 or newer.
 2. **Java Swing Libary**: This libary included need features like JFrame, JPanel, and SwingUtilities.
 
+## Setup
+
 ### Step 1: Clone the Repository
 First, clone or download this repository to your local machine (https://github.com/DaveMorra/Particle-Based-Fluid-Simulation).
 
