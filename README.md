@@ -22,8 +22,14 @@ Before running this project, ensure that you meet the following requirements:
 ## Setup
 
 ### Step 1: Clone the Repository
-First, clone or download this repository to your local machine (https://github.com/DaveMorra/Particle-Based-Fluid-Simulation).
-
+First, clone or download this repository to your local machine.
+```
+git clone https://github.com/DaveMorra/Particle-Based-Fluid-Simulation.git
+```
+Then, navigate to the source directory:
+```
+cd Particle-Based-Fluid-Simulation/src
+```
 ### Step 2: Compile and Run
 Quickly build and run the project in any IDE that supports java (e.g., IntelliJ IDEA, Eclipse, or javac).
 Alternatively, you can compile and run it directly from the command line on any system with a built-in Java compiler.
@@ -39,3 +45,26 @@ The simulation uses a particle-based physics engine to model fluid-like behavior
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
+
+First, clone or download this repository to your local machine:
+```
+git clone https://github.com/DaveMorra/Sudoku-Solver-And-Generator
+```
+Then, navigate to the source directory:
+```
+cd Sudoku-Solver-And-Generator/src
+```
+
+### Step 2: Compile and Run
+Quickly build and run the project in any IDE that supports java (e.g. IntelliJ IDEA, Eclipse).
+Alternatively, you can compile and run it directly from the command line on any system with a built-in Java compiler.
+
+### Compile Sudoku Board Model:
+```
+javac models/SudokuBoard.java
+```
+
+### Run the Sudoku Solver
+```
+java SudokuSolver.java <optionalSudokuFile.txt>
+```
